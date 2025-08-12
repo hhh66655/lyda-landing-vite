@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "frame-ancestors https://*.squarespace.com https://*.squarespace-cdn.com https://lydatechnology.com 'self'"
+          "value": "frame-ancestors https://*.squarespace.com https://*.squarespace-cdn.com https://*.sqspcdn.com https://static1.squarespace.com https://lydatechnology.com https://www.lydatechnology.com 'self'"
         }
       ]
     }
