@@ -62,7 +62,7 @@ export default function App() {
             </p>
             <div className="grid grid-cols-3 gap-6 pt-6 text-sm">
               <div><div className="text-2xl font-semibold">&lt; 30 ms</div><div className="text-white/60">Latency</div></div>
-              <div><div className="text-2xl font-semibold">All-day</div><div className="text-white/60">Battery</div></div>
+              <div><div className="text-2xl font-semibold">6h</div><div className="text-white/60">Battery</div></div>
               <div><div className="text-2xl font-semibold">&lt; 55 g</div><div className="text-white/60">Weight</div></div>
             </div>
           </div>
@@ -159,12 +159,12 @@ export default function App() {
           <div>
             <h2 className="text-2xl md:text-4xl font-semibold tracking-tight">Industrial design meets comfort</h2>
             <p className="text-white/80 mt-4 max-w-xl">
-              Aerospace-grade materials and ergonomic temples for all-day wear. Swap lenses and colors to fit professional and lifestyle settings.
+              Aerospace-grade materials and ergonomic temples for 6h wear. Swap lenses and colors to fit professional and lifestyle settings.
             </p>
             <div className="grid grid-cols-3 gap-6 mt-6 text-sm text-white/80">
               <div><div className="text-xl font-semibold">&lt; 55 g</div><div className="text-white/60">Ultra-light</div></div>
               <div><div className="text-xl font-semibold">IP54</div><div className="text-white/60">Dust & Water</div></div>
-              <div><div className="text-xl font-semibold">All-day</div><div className="text-white/60">Battery</div></div>
+              <div><div className="text-xl font-semibold">6h</div><div className="text-white/60">Battery</div></div>
             </div>
           </div>
         </div>
